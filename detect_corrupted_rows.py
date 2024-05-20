@@ -59,6 +59,7 @@ def fetch_all_ids(table_name):
                 print(f"Error fetching ID at row {current_id}: {e}")
                 log_corrupted_row(corrupted_rows, current_id, str(e))
 
+
     except Error as e:
         print(f"Error during ID fetching: {e}")
     finally:
