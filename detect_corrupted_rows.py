@@ -14,8 +14,7 @@ config = {
     'password': os.getenv('DB_PASSWORD'),
     'host': os.getenv('DB_HOST'),
     'database': os.getenv('DB_NAME'),
-    'port': os.getenv('DB_PORT', 3306),
-    'ssl_disabled': 'True'
+    'port': os.getenv('DB_PORT', 3306)
 }
 
 def log_corrupted_row(corrupted_rows, row_id, error_message):
@@ -54,11 +53,10 @@ def fetch_all_ids(table_name):
                 if row_id:
                     valid_ids.append(row_id[0])
                 current_id += 1
-                time.sleep(0.1)  # Small delay between queries to avoid hitting server limits
             except Error as e:
                 print(f"Error fetching ID at row {current_id}: {e}")
                 log_corrupted_row(corrupted_rows, current_id, str(e))
-
+                current_id += 2  # Skip the corrupted row
 
     except Error as e:
         print(f"Error during ID fetching: {e}")
@@ -85,7 +83,6 @@ def check_table_for_corrupted_rows(table_name):
             print(f"Running query: SELECT * FROM {table_name} WHERE id = {row_id}")
             cursor.execute(f"SELECT * FROM {table_name} WHERE id = %s", (row_id,))
             cursor.fetchone()
-            time.sleep(0.1)  # Small delay between queries to avoid hitting server limits
         except Error as e:
             print(f"Error reading row {row_id}: {e}")
             log_corrupted_row(corrupted_rows, row_id, str(e))
