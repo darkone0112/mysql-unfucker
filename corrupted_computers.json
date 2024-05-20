@@ -1,0 +1,1150 @@
+[
+    {
+        "id": 434,
+        "error_message": "2013: Lost connection to MySQL server during query"
+    },
+    {
+        "id": 436,
+        "error_message": "2013: Lost connection to MySQL server during query"
+    },
+    {
+        "id": 438,
+        "error_message": "2013: Lost connection to MySQL server during query"
+    },
+    {
+        "id": 440,
+        "error_message": "2013: Lost connection to MySQL server during query"
+    },
+    {
+        "id": 442,
+        "error_message": "2013: Lost connection to MySQL server during query"
+    },
+    {
+        "id": 444,
+        "error_message": "2013: Lost connection to MySQL server during query"
+    },
+    {
+        "id": 446,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 448,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 450,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 452,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 454,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 456,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 458,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 460,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 462,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 464,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 466,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 468,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 470,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 472,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 474,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 476,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 478,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 480,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 482,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 484,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 486,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 488,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 490,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 492,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 494,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 496,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 498,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 500,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 502,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 504,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 506,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 508,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 510,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 512,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 514,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 516,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 518,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 520,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 522,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 524,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 526,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 528,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 530,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 532,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 534,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 536,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 538,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 540,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 542,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 544,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 546,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 548,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 550,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 552,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 554,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 556,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 558,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 560,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 562,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 564,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 566,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 568,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 570,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 572,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 574,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 576,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 578,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 580,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 582,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 584,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 586,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 588,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 590,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 592,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 594,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 596,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 598,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 600,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 602,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 604,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 606,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 608,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 610,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 612,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 614,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 616,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 618,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 620,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 622,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 624,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 626,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 628,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 630,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 632,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 634,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 636,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 638,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 640,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 642,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 644,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 646,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 648,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 650,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 652,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 654,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 656,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 658,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 660,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 662,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 664,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 666,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 668,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 670,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 672,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 674,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 676,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 678,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 680,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 682,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 684,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 686,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 688,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 690,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 692,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 694,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 696,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 698,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 700,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 702,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 704,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 706,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 708,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 710,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 712,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 714,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 716,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 718,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 720,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 722,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 724,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 726,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 728,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 730,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 732,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 734,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 736,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 738,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 740,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 742,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 744,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 746,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 748,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 750,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 752,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 754,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 756,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 758,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 760,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 762,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 764,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 766,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 768,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 770,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 772,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 774,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 776,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 778,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 780,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 782,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 784,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 786,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 788,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 790,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 792,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 794,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 796,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 798,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 800,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 802,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 804,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 806,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 808,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 810,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 812,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 814,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 816,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 818,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 820,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 822,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 824,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 826,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 828,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 830,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 832,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 834,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 836,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 838,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 840,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 842,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 844,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 846,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 848,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 850,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 852,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 854,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 856,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 858,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 860,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 862,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 864,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 866,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 868,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 870,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 872,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 874,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 876,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 878,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 880,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 882,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 884,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 886,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 888,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 890,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 892,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 894,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 896,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 898,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 900,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 902,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 904,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 906,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 908,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 910,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 912,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 914,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 916,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 918,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 920,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 922,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 924,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 926,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 928,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 930,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 932,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 934,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 936,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 938,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 940,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 942,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 944,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 946,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 948,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 950,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 952,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 954,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 956,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 958,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 960,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 962,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 964,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 966,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 968,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 970,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 972,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 974,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 976,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 978,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 980,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 982,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 984,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 986,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 988,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 990,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 992,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 994,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 996,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 998,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 1000,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 1002,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 1004,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    },
+    {
+        "id": 1006,
+        "error_message": "2055: Lost connection to MySQL server at 'ceva-inventory.duckdns.org:3306', system error: 10053 Se ha anulado una conexi\u00f3n establecida por el software en su equipo host"
+    }
+]

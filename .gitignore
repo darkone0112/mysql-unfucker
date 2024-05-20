@@ -1,0 +1,35 @@
+# General Python/Django ignores
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3-journal
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+.env.*
+
+# Security
+*.cert
+*.key
+
+# Development tools
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Django static and media files
+/media/
+
+# Exclude specific settings/module
+# settings/production.py
+# myapp/migrations/
