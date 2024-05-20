@@ -14,7 +14,8 @@ config = {
     'password': os.getenv('DB_PASSWORD'),
     'host': os.getenv('DB_HOST'),
     'database': os.getenv('DB_NAME'),
-    'port': os.getenv('DB_PORT', 3306)
+    'port': os.getenv('DB_PORT', 3306),
+    'ssl_disabled': 'True'
 }
 
 def log_corrupted_row(corrupted_rows, row_id, error_message):
@@ -32,79 +33,66 @@ def connect_to_db():
         print(f"Error connecting to MySQL: {e}")
         return None
 
-def fetch_id_range(table_name):
+def fetch_all_ids(table_name):
     connection = connect_to_db()
     if not connection:
-        return None, None
+        return [], []
 
+    valid_ids = []
+    corrupted_rows = []
     try:
         cursor = connection.cursor()
         cursor.execute(f"SELECT MIN(id), MAX(id) FROM {table_name}")
         min_id, max_id = cursor.fetchone()
-        return min_id, max_id
+
+        current_id = min_id
+        while current_id <= max_id:
+            try:
+                print(f"Fetching ID: SELECT id FROM {table_name} WHERE id = {current_id}")
+                cursor.execute(f"SELECT id FROM {table_name} WHERE id = %s", (current_id,))
+                row_id = cursor.fetchone()
+                if row_id:
+                    valid_ids.append(row_id[0])
+                current_id += 1
+                time.sleep(0.1)  # Small delay between queries to avoid hitting server limits
+            except Error as e:
+                print(f"Error fetching ID at row {current_id}: {e}")
+                log_corrupted_row(corrupted_rows, current_id, str(e))
+
     except Error as e:
-        print(f"Error fetching ID range: {e}")
-        return None, None
+        print(f"Error during ID fetching: {e}")
     finally:
         if connection.is_connected():
             cursor.close()
             connection.close()
             print("MySQL connection closed")
 
-def check_id_range(table_name, start_id, end_id):
-    connection = connect_to_db()
-    if not connection:
-        return False
-
-    try:
-        cursor = connection.cursor()
-        query = f"SELECT * FROM {table_name} WHERE id BETWEEN %s AND %s"
-        print(f"Running query: {query} with {start_id} and {end_id}")
-        cursor.execute(query, (start_id, end_id))
-        cursor.fetchall()
-        return True
-    except Error as e:
-        print(f"Error checking ID range {start_id} to {end_id}: {e}")
-        return False
-    finally:
-        if connection.is_connected():
-            cursor.close()
-            connection.close()
-            print("MySQL connection closed")
-
-def check_individual_id(table_name, row_id):
-    connection = connect_to_db()
-    if not connection:
-        return False
-
-    try:
-        cursor = connection.cursor()
-        query = f"SELECT * FROM {table_name} WHERE id = %s"
-        print(f"Running query: {query} with {row_id}")
-        cursor.execute(query, (row_id,))
-        cursor.fetchone()
-        return True
-    except Error as e:
-        print(f"Error reading row {row_id}: {e}")
-        return False
-    finally:
-        if connection.is_connected():
-            cursor.close()
-            connection.close()
-            print("MySQL connection closed")
+    return valid_ids, corrupted_rows
 
 def check_table_for_corrupted_rows(table_name):
-    corrupted_rows = []
-    min_id, max_id = fetch_id_range(table_name)
-    if min_id is None or max_id is None:
+    valid_ids, corrupted_rows = fetch_all_ids(table_name)
+    if not valid_ids:
         return
 
-    for start_id in range(min_id, max_id + 1, 100):
-        end_id = min(start_id + 99, max_id)
-        if not check_id_range(table_name, start_id, end_id):
-            for row_id in range(start_id, end_id + 1):
-                if not check_individual_id(table_name, row_id):
-                    log_corrupted_row(corrupted_rows, row_id, "Corrupted or inaccessible row")
+    for row_id in valid_ids:
+        connection = connect_to_db()
+        if not connection:
+            break
+
+        try:
+            cursor = connection.cursor()
+            print(f"Running query: SELECT * FROM {table_name} WHERE id = {row_id}")
+            cursor.execute(f"SELECT * FROM {table_name} WHERE id = %s", (row_id,))
+            cursor.fetchone()
+            time.sleep(0.1)  # Small delay between queries to avoid hitting server limits
+        except Error as e:
+            print(f"Error reading row {row_id}: {e}")
+            log_corrupted_row(corrupted_rows, row_id, str(e))
+        finally:
+            if connection.is_connected():
+                cursor.close()
+                connection.close()
+                print("MySQL connection closed")
 
     # Save corrupted rows to a JSON file
     json_filename = f'corrupted_{table_name}.json'
