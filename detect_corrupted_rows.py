@@ -3,7 +3,6 @@ from mysql.connector import Error
 from dotenv import load_dotenv
 import os
 import json
-import time
 
 # Load environment variables from .env file
 load_dotenv()
@@ -17,12 +16,6 @@ config = {
     'port': os.getenv('DB_PORT', 3306)
 }
 
-def log_corrupted_row(corrupted_rows, row_id, error_message):
-    corrupted_rows.append({
-        'id': row_id,
-        'error_message': error_message
-    })
-
 def connect_to_db():
     try:
         connection = mysql.connector.connect(**config)
@@ -32,72 +25,63 @@ def connect_to_db():
         print(f"Error connecting to MySQL: {e}")
         return None
 
-def fetch_all_ids(table_name):
+def fetch_id_range(table_name):
     connection = connect_to_db()
     if not connection:
-        return [], []
+        return None, None
 
-    valid_ids = []
-    corrupted_rows = []
     try:
         cursor = connection.cursor()
         cursor.execute(f"SELECT MIN(id), MAX(id) FROM {table_name}")
         min_id, max_id = cursor.fetchone()
-
-        current_id = min_id
-        while current_id <= max_id:
-            try:
-                print(f"Fetching ID: SELECT id FROM {table_name} WHERE id = {current_id}")
-                cursor.execute(f"SELECT id FROM {table_name} WHERE id = %s", (current_id,))
-                row_id = cursor.fetchone()
-                if row_id:
-                    valid_ids.append(row_id[0])
-                current_id += 1
-            except Error as e:
-                print(f"Error fetching ID at row {current_id}: {e}")
-                log_corrupted_row(corrupted_rows, current_id, str(e))
-                current_id += 2  # Skip the corrupted row
-
+        return min_id, max_id
     except Error as e:
-        print(f"Error during ID fetching: {e}")
+        print(f"Error fetching ID range: {e}")
+        return None, None
     finally:
         if connection.is_connected():
             cursor.close()
             connection.close()
             print("MySQL connection closed")
 
-    return valid_ids, corrupted_rows
+def check_id_range(table_name, start_id, end_id):
+    connection = connect_to_db()
+    if not connection:
+        return False
 
-def check_table_for_corrupted_rows(table_name):
-    valid_ids, corrupted_rows = fetch_all_ids(table_name)
-    if not valid_ids:
+    try:
+        cursor = connection.cursor()
+        query = f"SELECT * FROM {table_name} WHERE id BETWEEN %s AND %s"
+        print(f"Running query: {query} with {start_id} and {end_id}")
+        cursor.execute(query, (start_id, end_id))
+        cursor.fetchall()
+        return True
+    except Error as e:
+        print(f"Error checking ID range {start_id} to {end_id}: {e}")
+        return False
+    finally:
+        if connection.is_connected():
+            cursor.close()
+            connection.close()
+            print("MySQL connection closed")
+
+def find_corrupted_ranges(table_name):
+    corrupted_ranges = []
+    min_id, max_id = fetch_id_range(table_name)
+    if min_id is None or max_id is None:
         return
 
-    for row_id in valid_ids:
-        connection = connect_to_db()
-        if not connection:
-            break
+    for start_id in range(min_id, max_id + 1, 100):
+        end_id = min(start_id + 99, max_id)
+        if not check_id_range(table_name, start_id, end_id):
+            corrupted_ranges.append((start_id, end_id))
 
-        try:
-            cursor = connection.cursor()
-            print(f"Running query: SELECT * FROM {table_name} WHERE id = {row_id}")
-            cursor.execute(f"SELECT * FROM {table_name} WHERE id = %s", (row_id,))
-            cursor.fetchone()
-        except Error as e:
-            print(f"Error reading row {row_id}: {e}")
-            log_corrupted_row(corrupted_rows, row_id, str(e))
-        finally:
-            if connection.is_connected():
-                cursor.close()
-                connection.close()
-                print("MySQL connection closed")
-
-    # Save corrupted rows to a JSON file
-    json_filename = f'corrupted_{table_name}.json'
-    with open(json_filename, 'w') as json_file:
-        json.dump(corrupted_rows, json_file, indent=4)
-        print(f"Corrupted rows logged to {json_filename}")
-        print(f"Number of corrupted rows detected: {len(corrupted_rows)}")
+    if corrupted_ranges:
+        print(f"Corrupted ID ranges in {table_name}:")
+        for start_id, end_id in corrupted_ranges:
+            print(f"{start_id} to {end_id}")
+    else:
+        print(f"No corrupted ID ranges found in {table_name}")
 
 def list_tables():
     connection = connect_to_db()
@@ -122,7 +106,7 @@ def main():
     while True:
         print("\nDatabase Corruption Checker")
         print("1. List Tables")
-        print("2. Check Table for Corruption")
+        print("2. Find Corrupted ID Ranges")
         print("3. Exit")
 
         choice = input("Enter your choice: ")
@@ -137,8 +121,8 @@ def main():
                 print("No tables found or error connecting to the database.")
 
         elif choice == '2':
-            table_name = input("Enter the table name to check for corruption: ")
-            check_table_for_corrupted_rows(table_name)
+            table_name = input("Enter the table name to check for corrupted ID ranges: ")
+            find_corrupted_ranges(table_name)
 
         elif choice == '3':
             print("Exiting the program.")
