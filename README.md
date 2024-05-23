@@ -45,7 +45,7 @@ DB_PORT=Connection_port_(3306)_default
 **Running the Script:**
 
 ```sh
-python detect_corrupted_rows.py
+main.py
 ```
 **Enjoy the Bliss of a (mostly) Uncorrupted Database:**
 
